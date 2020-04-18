@@ -1,6 +1,6 @@
 name = "cf_intern"
 type = "javascript"
-account_id = "a58179641c66423e6d3e0340a92ecf2f"
+account_id = ""
 workers_dev = true
 route = ""
 zone_id = ""
