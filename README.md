@@ -9,6 +9,4 @@ To visit the site, please click on:
 
 [cf_intern.intersect.workers.dev](https://cf_intern.intersect.workers.dev/)
 
-Note: the GitHub repo does not include the updated `wrangler.toml` for security reason.
-
 Thank you CloudFlare for the opportunity.
